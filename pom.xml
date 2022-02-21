@@ -18,6 +18,7 @@
     <modules>
         <module>Springsecurity-demo</module>
         <module>Springsecurity-role</module>
+        <module>Springsecurity-JWT-RBAC</module>
     </modules>
 
     <properties>
